@@ -8,7 +8,7 @@
 The confusion matrix shows in both cases a dfficulty to classify a particular segment, but the second gets better scores</p>
 <h4>Methodology</h4>
 <p>Python and data related libraries (Pandas, Scickit Learn,...) habe been the main developing code used<br>
-The repository contains 2 Python Noteboocks:<br>
+The repository contains 2 Python Notebooks:<br>
 - Eploratory: NewuFruit_WMC22.ipynb<br>
 - ML model: NewuFruit_MLmodel.ipynb<br>
 - Results table: results.csv</p>

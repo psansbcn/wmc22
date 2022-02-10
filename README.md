@@ -1,4 +1,4 @@
-<h3 style='color:#ffcc00'>WMC22 NUWE FRUIT</h3>
+<h3 style="color:#ffcc00">WMC22 NUWE FRUIT</h3>
 <h4>Eploratory</h4>
 <p>The Notebooks show how the 2 datasets provided are used to analyse the data and provide some useful information about the activity of this Startup and learn if the <b>communications</b> are useful</p>
 <p>The clients are divided into 6 segments and with some queries and visualisations some of this segments have clear distinctions</p>
